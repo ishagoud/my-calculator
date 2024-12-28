@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+  }
+  .h1{
+    border: #f4f4f9;
+  }
+  .calculator {
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .display {
+    background: #222;
+    color: #fff;
+    text-align: right;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: 2rem;
+  }
+  
+  .buttons button {
+    width: 22%;
+    margin: 1%;
+    padding: 20px;
+    font-size: 1.2rem;
+    border-radius: 5px;
+  }
+  
+  .btn-light {
+    background-color: #f0f0f0;
+  }
+  
+  .btn-danger {
+    background-color: #f28b82;
+  }
+  
+  .btn-success {
+    background-color: #81c995;
+  }
